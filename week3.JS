@@ -10,7 +10,7 @@ function isDivisibleBy5 (num) {
 	}
 }
 
-console.log(isDivisibleBy5(4));
+console.log(isDivisibleBy5(5));
 
 // two issues
 function reverseString (str) {
@@ -24,7 +24,7 @@ function reverseString (str) {
 console.log(reverseString("good afternoon"));
 // two issues
 function sayHello (name1, name2) {
-	return `Hello {name1}, says ${name2}`;
+	return `Hello ${name1}, says ${name2}`;
 }
 console.log(sayHello("Mahd" , "Amjad"));
 // two issues
